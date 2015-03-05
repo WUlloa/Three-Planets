@@ -1,2 +1,2 @@
 # Three-Planets
-WebGL Project by William.
+WebGL Project by William and Group Three.
